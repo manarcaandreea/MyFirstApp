@@ -4,7 +4,7 @@ using System.Text;
 
 namespace MyFirstApp
 {
-    class MyClass
+    class Class1
     {
     }
 }
